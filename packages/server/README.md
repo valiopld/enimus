@@ -76,6 +76,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## .env Example
 
+```bash
 SERVER_HOST=localhost
 SERVER_PORT=7777
 DB_NAME=enimus
+```
