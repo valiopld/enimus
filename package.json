@@ -4,7 +4,8 @@
   "description": "Enimus",
   "scripts": {
     "server": "npm start --prefix ./packages/server",
-    "server:dev": "npm run start:dev --prefix ./packages/server"
+    "server:dev": "npm run start:dev --prefix ./packages/server",
+    "webapp": "npm start --prefix ./packages/webapp"
   },
   "author": "Valentin Peshev",
   "license": "ISC",
