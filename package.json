@@ -1,0 +1,14 @@
+{
+  "name": "enimus",
+  "version": "0.0.1",
+  "description": "Enimus",
+  "scripts": {
+    "server": "npm start --prefix ./packages/server",
+    "server:dev": "npm run start:dev --prefix ./packages/server"
+  },
+  "author": "Valentin Peshev",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
